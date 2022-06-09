@@ -9,7 +9,7 @@
 [![Run on Repl.it](resources/gif/qr-scan.gif?size=40)](https://replit.com/@kshemuwel/Md-Scanner#package-lock.json)
 For Deploy 👇👇👇 බොට්ව සෑදීම සදහා පහත රූපය මත ටච් කරන්න
 
-[![Deploy](resources/gif/IMG_20210724_012025.png?size=40)](https://github.com/kshemuwel/QueenSew1.git)
+[![Deploy](resources/gif/IMG_20210724_012025.png?size=40)](gh repo clone kshemuwel/QueenSew1)
 
 
 #
